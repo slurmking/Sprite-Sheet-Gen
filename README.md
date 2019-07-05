@@ -1,7 +1,7 @@
 # Sprite Sheet Gen
 Python 3
 
-This script will auto formate and create a sprite sheet for a directory of images
+This script will auto format and create a sprite sheet for a directory of images
 # Instructions
   - Create Images folder in same directory as script
   - Add images to folder
